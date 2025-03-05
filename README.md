@@ -22,6 +22,7 @@ The dataset includes the following columns:
 |----------------|-------------|
 | `language_name` | The full name of the language |
 | `language_code` | The **ISO-based** 3-letter language code extracted from the dataset |
+| `country_code` | The **ISO 2-letter country code** where the language is spoken |
 | `country`      | The country name where the language is spoken, based on **ISO 2-letter country codes** |
 
 ## 📡 Data Source
