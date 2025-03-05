@@ -9,10 +9,10 @@ The dataset is available for direct download in the following formats:
 | Format    | File Name                             | Best For |
 |-----------|---------------------------------------|----------|
 | **Excel** | [African_Languages.xlsx](https://github.com/michsethowusu/african-languages-dataset/raw/main/docs/African_Languages.xlsx) | Business & analysis tools (Excel, Google Sheets) |
-| **CSV**   | [African_Languages.csv](./docs/African_Languages.csv)   | General-purpose data usage & databases |
-| **JSON**  | [African_Languages.json](./docs/African_Languages.json)  | Web & API applications |
-| **Parquet** | [African_Languages.parquet](./docs/African_Languages.parquet) | Big data & fast analytics |
-| **SQLite** | [African_Languages.db](./docs/African_Languages.db)   | Structured database queries |
+| **CSV**   | [African_Languages.csv](https://github.com/michsethowusu/african-languages-dataset/raw/main/docs/African_Languages.csv)   | General-purpose data usage & databases |
+| **JSON**  | [African_Languages.json](https://github.com/michsethowusu/african-languages-dataset/raw/main/docs/African_Languages.json)  | Web & API applications |
+| **Parquet** | [African_Languages.parquet](https://github.com/michsethowusu/african-languages-dataset/raw/main/docs/African_Languages.parquet) | Big data & fast analytics |
+| **SQLite** | [African_Languages.db](https://github.com/michsethowusu/african-languages-dataset/raw/main/docs/African_Languages.db)   | Structured database queries |
 
 ## 📜 Dataset Structure
 
